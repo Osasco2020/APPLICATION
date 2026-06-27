@@ -1,0 +1,8 @@
+{
+  "name": "Osarumwense Microfinance Bank",
+  "description": "Comprehensive Core Banking System & FinTech platform for Osarumwense Microfinance Bank Limited, featuring customer onboarding, digital loan origination, teller operations, bulk postings, and real-time executive financial dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
